@@ -2,10 +2,7 @@
 
 
 - 📚 Atualmente estou concluindo o ensino/técnico em informática no IFPI-Campus Parnaiba.
-- 🌱 Estou aprendendo atualmente html/css/python.
-- 💡  Pretendo colaborar na área da TI e trabalhar com isso futuramente.
-- 💬 Já participei de eventos na área da computação e fiz alguns codigos.
-- 💻 Gosto de design e pretendo trabalhar com front-end
+- 💻 Gosto de design e pretendo trabalhar com front-end.
 - 💁‍♀️ Curto aprender novos assuntos e desafios.
 - 📫 Como chegar até mim: link das minhas redes abaixo.
 
