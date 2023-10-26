@@ -1,8 +1,7 @@
 ### Olá, Eu sou Analice👋
 
 
-- 📚 Atualmente estou concluindo o ensino/técnico em informática no IFPI-Campus Parnaiba.
-- 💻 Gosto de design e pretendo trabalhar com front-end.
+- 📚 Concluindo o técnico em informática no IFPI-Campus Parnaiba.
 - 💁‍♀️ Curto aprender novos assuntos e desafios.
 - 📫 Como chegar até mim: link das minhas redes abaixo.
 
