@@ -1,7 +1,8 @@
 ### Olá, Eu sou Analice👋
 
 
-- 📚 Concluindo o técnico em informática no IFPI-Campus Parnaiba.
+- 📚 Técnica em informática no IFPI-Campus Parnaiba.
+- 💻 Cursando ADS.
 - 💁‍♀️ Curto aprender novos assuntos e desafios.
 - 📫 Como chegar até mim: link das minhas redes abaixo.
 
