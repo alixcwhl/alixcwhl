@@ -1,11 +1,6 @@
-### Olá, Eu sou Analice👋
-
-
-- 📚 Técnica em informática - IFPI-Campus Parnaiba.
-- 💻 Cursando ADS.
-- 💁‍♀️ Curto aprender novos assuntos e desafios.
-- 📫 Como chegar até mim: link das minhas redes abaixo.
-
+- 🎓 Técnica em informática - IFPI-Campus Parnaiba.
+- 💻 Cursando ADS-Análise e Desenvolvimento de Sistemas.
+- 👩🏽‍💻 Curto aprender novos assuntos e desafios.
 
 
 ![alixcwhl](https://github-readme-stats.vercel.app/api?username=alixcwhl&show_icons=true&theme=dracula)
