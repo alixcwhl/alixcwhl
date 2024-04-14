@@ -1,6 +1,7 @@
 - 🎓 Técnica em informática - IFPI-Campus Parnaiba.
 - 💻 Cursando ADS-Análise e Desenvolvimento de Sistemas.
 - 👩🏽‍💻 Curto aprender novos assuntos e desafios.
+- 💜 Pyladie
 
 
 ![alixcwhl](https://github-readme-stats.vercel.app/api?username=alixcwhl&show_icons=true&theme=dracula)
